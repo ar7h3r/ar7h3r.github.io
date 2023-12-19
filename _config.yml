@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Coolgenius Tech # the main title
+title: Arther Magaya # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: My Persnal Blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://lh3.googleusercontent.com/a/ACg8ocIDBKTumaHuA5NRs3J442K8cixsFaWKNJ8TKEMvj0SPcbLM=s576-c-no
 
 # boolean type, the global switch for TOC in posts.
 toc: true
