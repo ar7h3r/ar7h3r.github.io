@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://ar7h3r.github.io/"
 
 github:
-  username: Ar7h3r # change to your github username
+  username: Ar7h3r #  github username
 
 twitter:
   username:  # change to your twitter username
@@ -34,15 +34,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Arther-Magaya
   email: arthermagaya@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://github.com/username # github homepage
+    - https://www.linkedin.com/in/arther-m-a730148a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 google_site_verification: # fill in to your verification string
 
