@@ -8,7 +8,7 @@ order: 6
 - Currently in 2nd year
 
 ### University of the People
-- Bachelor of Computer Science
+- Asscociate Degree in Computer Science
 - First year
 
 ### University of the Witwatersrand  (WITS)
