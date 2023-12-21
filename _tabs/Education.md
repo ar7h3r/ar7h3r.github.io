@@ -7,7 +7,7 @@ order: 6
 - Bachelor of Computer Science
 - Currently in 2nd year
 
-### University of the People
+### University of the People (UoPeople)
 - Asscociate Degree in Computer Science
 - First year
 
